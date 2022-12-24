@@ -1,0 +1,68 @@
+#root {
+  /* max-width: 310px;
+  max-height: 3px;  */
+  /* padding: 2rem; */
+  /* text-align: center; */
+  /* padding-top: 50%; */
+}
+
+/* .css-169iwlq-MuiCalendarPicker-root{
+  margin-top: 50%;
+} */
+
+.css-1vcokmn-MuiCalendarOrClockPicker-root{
+  width: 319.9px;
+}
+
+.css-u0soqy-MuiPickerStaticWrapper-root {
+  box-shadow: 3px 2px 10px 5px #888888 !important;
+}
+
+.css-hlj6pa-MuiDialogActions-root {
+  display: none !important;
+}
+
+.css-z3au5x-MuiButtonBase-root-MuiIconButton-root-MuiPickersToolbar-penIconButton {
+  display: none !important;
+}
+
+.css-j88s13-MuiPickersToolbar-root-MuiDatePickerToolbar-root {
+  padding: 0 !important;
+}
+
+.css-3jvy96-MuiTypography-root-MuiDatePickerToolbar-title{
+  font-weight: bolder;
+  margin-left: 20%;
+}
+.css-1eurbeq-MuiPickersToolbar-root-MuiDatePickerToolbar-root {
+  
+  justify-content: center !important;
+  background-color: orange;
+  padding: 1rem;
+}
+
+.css-1hbyad5-MuiTypography-root {
+  display: none !important;
+}
+
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: orange !important;
+}
+
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
+  background-color: orange !important;
+  color: black !important;
+}
+.css-195y93z-MuiButtonBase-root-MuiPickersDay-root:not(.Mui-selected) {
+  border-color: black !important;
+  color: orange;
+}
+
+.css-144dnr3-MuiBadge-badge {
+  color: green;
+}
+
+.css-1n2mv2k {
+  background-color: #f4f4f4;
+  margin-bottom: 1rem;
+}
